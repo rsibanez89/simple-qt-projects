@@ -4,7 +4,7 @@
 1. Go to https://www.qt.io/download-open-source/#section-2
 I'm using windows so I would recommend you to install
  > Qt 5.7.1 for Windows 32-bit (MinGW 5.3.0, 1.1 GB)
-Once you install it you don't need any additional configuration. 
+Once you install it, you don't need any additional configuration.
 Oder versions, like Qt for 64-bit, need to configure the compiler.
 
 ### simple-qt-widget-drawing-ellipse-when-pressing-button
